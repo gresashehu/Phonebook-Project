@@ -1,0 +1,37 @@
+{
+  "list": [
+    {
+      "name": "Amarildo",
+      "surname": "Shehu",
+      "birthday": "20/02/2003",
+      "phone_numbers": [
+        "0692074579",
+        "0696358711"
+      ]
+    },
+    {
+      "name": "Kevin",
+      "surname": "Shehu",
+      "birthday": "009I9I0",
+      "phone_numbers": [
+        "93938492"
+      ]
+    },
+    {
+      "name": "Kristi",
+      "surname": "Krimce",
+      "birthday": "12/09/1999",
+      "phone_numbers": [
+        "05492563"
+      ]
+    },
+    {
+      "name": "gresa",
+      "surname": "shehu",
+      "birthday": "15/07/2006",
+      "phone_numbers": [
+        "2123234"
+      ]
+    }
+  ]
+}
